@@ -1,6 +1,6 @@
 # Data Mining Project
 
-In this project we are gathering the data from CSVs, preprocess the data in order to clean it and make it ready to be used in: 
+In this project I am gathering the data from CSVs, preprocess the data in order to clean it and make it ready to be used in: 
 - Regression, 
 - Classification, 
 - Clustering. 
