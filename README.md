@@ -1,12 +1,12 @@
 # Data Mining Project
 
-In this project we are gathering the data from CSVs, preprocess the data in order to clean it and make it ready, and finally apply: 
+In this project we are gathering the data from CSVs, preprocess the data in order to clean it and make it ready to be used in: 
 - Regression, 
 - Classification, 
 - Clustering. 
-      
-Finally we get the results after applying our models and make some visualizations.
 
+Finally we get the results after applying our models and make some visualizations.
+# 
 A GUI is implemented to allow the user to choose the needed regression algorithm, the options are:
 - Linear Regression
 - Decision Tree
